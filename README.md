@@ -29,6 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+  
    ![image](https://github.com/anbere/post-install-config/assets/90169033/1e939f18-c037-47a0-89f7-f54c6b058639)
 </p>
 <p>
@@ -173,17 +174,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   ![image](https://github.com/anbere/post-install-config/assets/90169033/ac807c42-4308-42b6-98ed-fe2047f68ea0)
 
-  
+  Well done! The Post-Installation Set-up is complete and we will see and experience the actual usage of osTicket in the next Tutorial.
 </p>
-
-
-
-
-
-
-
-
-
 
 
 
